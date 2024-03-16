@@ -1,0 +1,26 @@
+{
+  "name": "hdolger_opera-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/attiakhil34/Hdolger_opera-.git"
+  },
+  "dependencies": {
+    "rrlol45redg_tea": "1.0.0",
+    "teammmmUkra": "1.0.0",
+    "tea_emotio45HE": "1.0.0",
+    "bolillo_tea_aps": "1.0.0",
+    "tea55loerder": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/attiakhil34/Hdolger_opera-/issues"
+  },
+  "homepage": "https://github.com/attiakhil34/Hdolger_opera-#readme"
+}
